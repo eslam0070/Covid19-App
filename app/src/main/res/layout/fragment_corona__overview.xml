@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.fragment.Corona_Overview"
+    tools:ignore="UselessParent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:scaleType="fitStart"
+                android:src="@drawable/thumb"
+                tools:ignore="ContentDescription" />
+
+            <TextView
+                android:layout_marginHorizontal="10dp"
+                android:layout_width="match_parent"
+                android:textAppearance="@style/TextAppearance.AppCompat.Light.SearchResult.Subtitle"
+                android:layout_height="match_parent"
+                android:text="@string/coronavirus_disease_covid_19_is_an_infectious_disease_caused_by_a_newly_discovered_coronavirus_n_n_most_people_infected_with_the_covid_19_virus_will_experience_mild_to_moderate_respiratory_illness_and_recover_without_requiring_special_treatment_older_people_and_those_with_underlying_medical_problems_like_cardiovascular_disease_diabetes_chronic_respiratory_disease_and_cancer_are_more_likely_to_develop_serious_illness_n_nthe_best_way_to_prevent_and_slow_down_transmission_is_be_well_informed_about_the_covid_19_virus_the_disease_it_causes_and_how_it_spreads_protect_yourself_and_others_from_infection_by_washing_your_hands_or_using_an_alcohol_based_rub_frequently_and_not_touching_your_face_n_nthe_covid_19_virus_spreads_primarily_through_droplets_of_saliva_or_discharge_from_the_nose_when_an_infected_person_coughs_or_sneezes_so_it_s_important_that_you_also_practice_respiratory_etiquette_for_example_by_coughing_into_a_flexed_elbow_n_nat_this_time_there_are_no_specific_vaccines_or_treatments_for_covid_19_however_there_are_many_ongoing_clinical_trials_evaluating_potential_treatments_who_will_continue_to_provide_updated_information_as_soon_as_clinical_findings_become_available" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

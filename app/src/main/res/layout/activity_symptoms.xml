@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ui.activity.Symptoms"
+    tools:ignore="ContentDescription">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="230dp"
+            android:scaleType="fitStart"
+            android:src="@drawable/coronasym"/>
+
+        <TextView
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:textAppearance="@style/TextAppearance.AppCompat.SearchResult.Subtitle"
+            android:layout_height="match_parent"
+            android:text="@string/the_covid_19_virus_affects_different_people_in_different_ways_covid_19_is_a_respiratory_disease_and_most_infected_people_will_develop_mild_to_moderate_symptoms_and_recover_without_requiring_special_treatment_people_who_have_underlying_medical_conditions_and_those_over_60_years_old_have_a_higher_risk_of_developing_severe_disease_and_death_n_ncommon_symptoms_include_n_n1_fever_n_n2_tiredness_n_n3_dry_cough_n_n_other_symptoms_include_n_n4_shortness_of_breath_n_n5_aches_and_pains_n_n6_sore_throat_n_n_7_and_very_few_people_will_report_diarrhoea_nausea_or_a_runny_nose_n_npeople_with_mild_symptoms_who_are_otherwise_healthy_should_self_isolate_and_contact_their_medical_provider_or_a_covid_19_information_line_for_advice_on_testing_and_referral_n_n_people_with_fever_cough_or_difficulty_breathing_should_call_their_doctor_and_seek_medical_attention" />
+    </LinearLayout>
+</ScrollView>

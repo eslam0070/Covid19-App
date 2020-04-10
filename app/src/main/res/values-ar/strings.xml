@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"كوفيد 19 "</string>
+    <string name="egypt">مصر</string>
+    <string name="cases">"إجمالي  الإصابات : "</string>
+    <string name="today_cases">"الإصابات الجديدة : "</string>
+    <string name="death">"إجمالي  الوفيات : "</string>
+    <string name="today_death">"الوفيات الجديدة : "</string>
+    <string name="recovered">إجمالي  المتعافين :</string>
+    <string name="worldwide">"في جميع أنحاء العالم "</string>
+    <string name="all_countries">"كل البلدان "</string>
+    <string name="covid_19">كوفيد -19</string>
+    <string name="symptoms">"الأعراض "</string>
+    <string name="updates">"التحديثات "</string>
+    <string name="helpline">"خط المساعدة "</string>
+    <string name="about">حول</string>
+    <string name="to_prevent_infection_and_to_slow_transmission_of_covid_19_do_the_following_n_n_1_wash_your_hands_regularly_with_soap_and_water_or_clean_them_with_alcohol_based_hand_rub_n_n2_maintain_at_least_1_metre_distance_between_you_and_people_coughing_or_sneezing_n_n3_avoid_touching_your_face_n_n4_cover_your_mouth_and_nose_when_coughing_or_sneezing_n_n5_stay_home_if_you_feel_unwell_n_n6_refrain_from_smoking_and_other_activities_that_weaken_the_lungs_n_n7_practice_physical_distancing_by_avoiding_unnecessary_travel_and_staying_away_from_large_groups_of_people">"لمنع العدوى وإبطاء انتقال COVID-19 ، قم بما يلي: 1
+        . اغسل يديك بانتظام بالماء والصابون ،
+        أو قم بتنظيفها باستخدام فرك اليد الذي يحتوي على الكحول.
+        2. حافظ على مسافة متر واحد على الأقل بينك وبين الأشخاص السعال أو العطس.
+        3. تجنب لمس وجهك. 4
+        . قم بتغطية فمك وأنفك عند السعال أو العطس.
+        5. ابق في المنزل إذا شعرت بتوعك.
+        6. الامتناع عن التدخين والأنشطة الأخرى التي تضعف الرئتين.
+        7. ممارسة الابتعاد الجسدي عن طريق تجنب السفر غير الضروري والابتعاد عن مجموعات كبيرة من الناس. "</string>
+    <string name="coronavirus_disease_covid_19_is_an_infectious_disease_caused_by_a_newly_discovered_coronavirus_n_n_most_people_infected_with_the_covid_19_virus_will_experience_mild_to_moderate_respiratory_illness_and_recover_without_requiring_special_treatment_older_people_and_those_with_underlying_medical_problems_like_cardiovascular_disease_diabetes_chronic_respiratory_disease_and_cancer_are_more_likely_to_develop_serious_illness_n_nthe_best_way_to_prevent_and_slow_down_transmission_is_be_well_informed_about_the_covid_19_virus_the_disease_it_causes_and_how_it_spreads_protect_yourself_and_others_from_infection_by_washing_your_hands_or_using_an_alcohol_based_rub_frequently_and_not_touching_your_face_n_nthe_covid_19_virus_spreads_primarily_through_droplets_of_saliva_or_discharge_from_the_nose_when_an_infected_person_coughs_or_sneezes_so_it_s_important_that_you_also_practice_respiratory_etiquette_for_example_by_coughing_into_a_flexed_elbow_n_nat_this_time_there_are_no_specific_vaccines_or_treatments_for_covid_19_however_there_are_many_ongoing_clinical_trials_evaluating_potential_treatments_who_will_continue_to_provide_updated_information_as_soon_as_clinical_findings_become_available">"مرض التاجية (COVID-19) هو مرض معد يسببه فيروس تاجي مكتشف حديثًا. سيعاني معظم الأشخاص المصابين بفيروس COVID-19 من أمراض تنفسية خفيفة إلى متوسطة ويتعافون دون الحاجة إلى علاج خاص. من المرجح أن يصاب كبار السن ، ومن يعانون من مشاكل طبية كامنة مثل أمراض القلب والأوعية الدموية والسكري وأمراض الجهاز التنفسي المزمنة والسرطان. إن أفضل طريقة لمنع انتقال المرض وإبطائه هي أن تكون على علم جيدًا بفيروس COVID-19 والمرض الذي يسببه وكيفية انتشاره. احمِ نفسك والآخرين من العدوى عن طريق غسل يديك أو استخدام فرك الكحول بشكل متكرر وعدم لمس وجهك. ينتشر فيروس COVID-19 في المقام الأول من خلال قطرات اللعاب أو الإفرازات من الأنف عندما يسعل الشخص المصاب أو يعطس ، لذلك من المهم أن تمارس أيضًا آداب الجهاز التنفسي (على سبيل المثال ، بالسعال في مرفق مرن). في هذا الوقت ، لا توجد لقاحات أو علاجات محددة لـ COVID-19. ومع ذلك ، هناك العديد من التجارب السريرية الجارية لتقييم العلاجات المحتملة. ستواصل منظمة الصحة العالمية تقديم معلومات محدثة بمجرد توفر النتائج السريرية. "</string>
+    <string name="the_covid_19_virus_affects_different_people_in_different_ways_covid_19_is_a_respiratory_disease_and_most_infected_people_will_develop_mild_to_moderate_symptoms_and_recover_without_requiring_special_treatment_people_who_have_underlying_medical_conditions_and_those_over_60_years_old_have_a_higher_risk_of_developing_severe_disease_and_death_n_ncommon_symptoms_include_n_n1_fever_n_n2_tiredness_n_n3_dry_cough_n_n_other_symptoms_include_n_n4_shortness_of_breath_n_n5_aches_and_pains_n_n6_sore_throat_n_n_7_and_very_few_people_will_report_diarrhoea_nausea_or_a_runny_nose_n_npeople_with_mild_symptoms_who_are_otherwise_healthy_should_self_isolate_and_contact_their_medical_provider_or_a_covid_19_information_line_for_advice_on_testing_and_referral_n_n_people_with_fever_cough_or_difficulty_breathing_should_call_their_doctor_and_seek_medical_attention">"يؤثر فيروس COVID-19 على أشخاص مختلفين بطرق مختلفة. COVID-19 هو مرض تنفسي ومعظم المصابين سيعانون من أعراض خفيفة إلى متوسطة ويتعافون دون الحاجة إلى علاج خاص. يكون الأشخاص الذين يعانون من حالات طبية كامنة والذين تزيد أعمارهم عن 60 عامًا أكثر عرضة للإصابة بمرض شديد والوفاة. تشمل الأعراض الشائعة: 1. الحمى
+        2. التعب
+        3. السعال الجاف.
+        تشمل الأعراض الأخرى:
+        4. ضيق في التنفس
+        5. آلام وآلام
+        6. التهاب في الحلق 7
+        . وقلة قليلة من الناس سيبلغون عن الإسهال أو الغثيان أو سيلان الأنف.
+        يجب على الأشخاص الذين يعانون من أعراض خفيفة والذين يتمتعون بصحة جيدة أن يعزلوا أنفسهم ويتصلوا بموفرهم الطبي
+        أو خط COVID-19  للحصول على المشورة بشأن الاختبار والإحالة. يجب على الأشخاص المصابين بالحمى
+        أو السعال أو صعوبة التنفس الاتصال بطبيبهم وطلب الرعاية الطبية. "</string>
+    <string name="search">بحث</string>
+    <string name="settings">"الإعدادات "</string>
+    <string name="change_language">"تغيير اللغة "</string>
+    <string name="arabic">لغه عربية</string>
+    <string name="english">لغه الإنجليزية</string>
+    <string name="load">"تحميل البيانات … "</string>
+    <string name="fetching">جلب البيانات …</string>
+    <string name="overview">"نظرة عامة "</string>
+    <string name="prevention">الوقاية</string>
+    <string name="error">خطأ</string>
+    <string name="checkyour">"تحقق من اتصالك بالإنترنت. "</string>
+    <string name="retry">"أعد المحاولة "</string>
+    <string name="exit">خروج</string>
+</resources>
+
