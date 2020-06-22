@@ -7,3 +7,5 @@ Retrofit is an awesome type-safe HTTP client for Android and Java built by aweso
 
 [If you just want to get the sample project, then you can find it here.
 ](https://github.com/prakashpun/RetrofitTutorial)
+
+Api use https://corona.lmao.ninja/countries
